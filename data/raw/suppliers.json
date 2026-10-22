@@ -1,0 +1,104 @@
+{
+  "exported_at": "2026-09-30T23:00:00Z",
+  "suppliers": [
+    {
+      "supplier_code": "SUP-001",
+      "name": "Caribe Plastics SRL",
+      "country": "DO",
+      "default_currency": "USD",
+      "payment_terms_days": 30,
+      "active": true,
+      "contact": {
+        "email": "orders@caribe.example"
+      }
+    },
+    {
+      "supplier_code": "SUP-002",
+      "name": "Precision Wire GmbH",
+      "country": "DE",
+      "default_currency": "EUR",
+      "payment_terms_days": 45,
+      "active": true,
+      "contact": {
+        "email": "orders@precision.example"
+      }
+    },
+    {
+      "supplier_code": "SUP-003",
+      "name": "MedPack de Mexico",
+      "country": "MX",
+      "default_currency": "MXN",
+      "payment_terms_days": 30,
+      "active": true,
+      "contact": {
+        "email": "orders@medpack.example"
+      }
+    },
+    {
+      "supplier_code": "SUP-004",
+      "name": "Shenzhen Micro Parts",
+      "country": "CN",
+      "default_currency": "CNY",
+      "payment_terms_days": 60,
+      "active": true,
+      "contact": {
+        "email": "orders@shenzhen.example"
+      }
+    },
+    {
+      "supplier_code": "SUP-005",
+      "name": "Atlantic Resins Inc",
+      "country": "US",
+      "default_currency": "USD",
+      "payment_terms_days": 30,
+      "active": true,
+      "contact": {
+        "email": "orders@atlantic.example"
+      }
+    },
+    {
+      "supplier_code": "SUP-006",
+      "name": "Nordic Tubing AB",
+      "country": "SE",
+      "default_currency": "EUR",
+      "payment_terms_days": 45,
+      "active": true,
+      "contact": {
+        "email": "orders@nordic.example"
+      }
+    },
+    {
+      "supplier_code": "SUP-007",
+      "name": "Santo Domingo Labels",
+      "country": "DO",
+      "default_currency": "USD",
+      "payment_terms_days": 15,
+      "active": true,
+      "contact": {
+        "email": "orders@santo.example"
+      }
+    },
+    {
+      "supplier_code": "SUP-008",
+      "name": "Legacy Metals Corp",
+      "country": "US",
+      "default_currency": "USD",
+      "payment_terms_days": 30,
+      "active": false,
+      "contact": {
+        "email": "orders@legacy.example"
+      }
+    },
+    {
+      "supplier_code": " sup-003",
+      "name": "MEDPACK DE MEXICO ",
+      "country": "MX",
+      "default_currency": "MXN",
+      "payment_terms_days": 30,
+      "active": true,
+      "contact": {
+        "email": "orders@medpack.example"
+      }
+    }
+  ]
+}
